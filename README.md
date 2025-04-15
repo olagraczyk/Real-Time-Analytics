@@ -1,4 +1,4 @@
-## flask-api-decision.py
+## flask-api-decision
 
 __Skills Acquired:__
 
